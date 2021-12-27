@@ -1,5 +1,9 @@
 package Service;
 
+import Entities.Patient;
+
+import java.util.List;
+
 public interface PatientService {
     void addPatient(Patient patient);
 

@@ -1,5 +1,9 @@
 package Service;
 
+import Entities.User;
+
+import java.util.List;
+
 public interface UserService {
     void addUser(User user);
 

@@ -1,5 +1,7 @@
 package Service;
 
+import Entities.Auth;
+
 import java.util.List;
 
 public interface AuthService {

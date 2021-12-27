@@ -1,5 +1,9 @@
 package dao;
 
+import Entities.User;
+
+import java.util.List;
+
 public interface UserDao {
     void addUser(User user);
 

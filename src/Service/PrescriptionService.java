@@ -1,5 +1,9 @@
 package Service;
 
+import Entities.Prescription;
+
+import java.util.List;
+
 public interface PrescriptionService {
     void addPrescription(Prescription prescription);
 

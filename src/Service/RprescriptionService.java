@@ -1,5 +1,9 @@
 package Service;
 
+import Entities.Rprescription;
+
+import java.util.List;
+
 public interface RprescriptionService {
     void addRprescription (Rprescription rprescription);
 

@@ -1,6 +1,10 @@
 package Impl;
 
+import Entities.User;
 import Service.UserService;
+import dao.UserDao;
+
+import java.util.List;
 
 public class UserServiceImpl  implements UserService {
     @Autowired

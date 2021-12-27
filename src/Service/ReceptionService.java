@@ -1,5 +1,9 @@
 package Service;
 
+import Entities.Reception;
+
+import java.util.List;
+
 public interface ReceptionService {
     void addReception(Reception reception);
 
